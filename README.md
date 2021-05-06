@@ -1,2 +1,2 @@
-# simple_image_classification
+# Simple image classification
 Image classification on self-made dataset using pretrained networks.
